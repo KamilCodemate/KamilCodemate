@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kamil</h1>
 <h3 align="center">High school student interested in programming</h3>
 
-- 👨‍💻 Already know **HTML, CSS, SASS, Javascript, React, Typescript(a little), PHP, SQL, C++, Java**
+- 👨‍💻 Already know **HTML, CSS, SASS, Javascript, React, Typescript, PHP, SQL, C++, Java. Currently learning Node.js and Angular**
 
 - 📫 You can write to me via **kamil.codemate@gmail.com**
 
